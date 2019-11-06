@@ -1,0 +1,4 @@
+﻿PrintWriter – tworzy nowy plik i nadpisuje
+FileWriter – jest możliwość dopisania do istniejącego pliku
+Domyślny katalog główny KAT…..?????
+A teraz dodamy nowy tekst
